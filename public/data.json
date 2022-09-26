@@ -1,0 +1,27 @@
+{
+  "colors": [
+    { "id": 1, "name": "#F07D7D" },
+    { "id": 2, "name": "#F0DE7D" },
+    { "id": 3, "name": "#9BF07D" },
+    { "id": 4, "name": "#7DF0B9" },
+    { "id": 5, "name": "#7DC7F0" },
+    { "id": 6, "name": "#9B7DF0" }
+  ],
+  "categories": [
+    { "id": 1, "name": "Design", "color": 1 },
+    { "id": 2, "name": "Programming", "color": 2 },
+    { "id": 3, "name": "Marketing", "color": 3 },
+    { "id": 4, "name": "Finance", "color": 4 },
+    { "id": 5, "name": "Support", "color": 5 },
+    { "id": 6, "name": "Sleep", "color": 6 }
+  ],
+  "todos": [
+    { "id": 1, "title": "Lunch with coworker", "completed": false, "category": 6 },
+    { "id": 2, "title": "Doing assignment", "completed": false, "category": 2 },
+    { "id": 3, "title": "Meeting with leads", "completed": false, "category": 3 },
+    { "id": 4, "title": "Designing Session landing page", "completed": false, "category": 1 },
+    { "id": 5, "title": "Brainstorming a new IG post", "completed": false, "category": 3 },
+    { "id": 6, "title": "Planning for next month budget", "completed": false, "category": 4 },
+    { "id": 7, "title": "Assist Alex on his task", "completed": false, "category": 5 }
+  ]
+}
